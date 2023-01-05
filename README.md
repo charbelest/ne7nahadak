@@ -1,2 +1,2 @@
-# nehnahadak
+# Nehnahadak
 LAU summer camp
